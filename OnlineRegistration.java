@@ -1,4 +1,3 @@
-package exp4;
 
 class Course {
     String name;
